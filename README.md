@@ -50,3 +50,50 @@ GitHub • VS Code • Arduino IDE • Orca Slicer
 ---
 
 # 🌟 Proyectos Destacados
+
+### 🌦️ Plataforma Inteligente de Monitoreo Meteorológico
+
+Desarrollo de una solución integral de Internet de las Cosas (IoT) para el monitoreo de variables ambientales en tiempo real mediante una red de estaciones meteorológicas.
+
+Este proyecto involucró el desarrollo completo del sistema, desde el diseño electrónico y la programación de dispositivos embebidos hasta la transmisión, almacenamiento, visualización y análisis de datos. La plataforma permite capturar información ambiental mediante sensores conectados a microcontroladores ESP32, transmitir los datos utilizando tecnología LoRa, almacenarlos en una base de datos y visualizarlos a través de una plataforma web para el monitoreo y la toma de decisiones.
+
+#### Principales aportes
+
+* Programación e integración de sensores ambientales.
+* Desarrollo de software embebido para dispositivos ESP32.
+* Implementación de comunicación inalámbrica mediante tecnología LoRa.
+* Diseño y validación de una PCB personalizada utilizando KiCad.
+* Captura, almacenamiento y gestión de datos meteorológicos.
+* Desarrollo de una plataforma web para monitoreo remoto.
+* Visualización de datos históricos y en tiempo real.
+* Pruebas, calibración e integración de hardware y software.
+
+#### Tecnologías utilizadas
+
+`ESP32` `LoRa` `C++` `KiCad` `HTML` `CSS` `JavaScript` `Bases de Datos` `Git`
+
+---
+
+### 🎮 Análisis de Ventas de Videojuegos
+
+Proyecto de analítica de datos enfocado en la exploración, transformación y visualización de información histórica sobre ventas de videojuegos para identificar tendencias, patrones de mercado y oportunidades de negocio.
+
+El proyecto abarcó todo el ciclo de análisis de datos, desde la obtención y limpieza de la información hasta la construcción de consultas SQL, análisis exploratorio, generación de indicadores clave y desarrollo de dashboards interactivos para comunicar hallazgos de manera efectiva.
+
+#### Principales aportes
+
+* Recolección y preparación de datos.
+* Limpieza y transformación de conjuntos de datos.
+* Análisis Exploratorio de Datos (EDA).
+* Desarrollo de consultas SQL para extracción y análisis de información.
+* Construcción de indicadores clave de desempeño (KPIs).
+* Desarrollo de dashboards interactivos en Power BI.
+* Visualización de datos y comunicación de hallazgos.
+* Generación de conclusiones basadas en evidencia para la toma de decisiones.
+
+#### Tecnologías utilizadas
+
+`Python` `Pandas` `SQL` `Power BI` `Analítica de Datos` `Business Intelligence` `Visualización de Datos`
+
+
+

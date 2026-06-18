@@ -1,6 +1,6 @@
 # Jose Miguel Rico Acosta
 
-Estudiante de Ingeniería de Sistemas Cibernéticos
+Estudiante de Ingeniería de Sistemas Cibernéticos 
 
 Apasionado por el desarrollo de software, analítica de datos, IoT, sistemas embebidos, diseño electrónico y la electronica.
 

@@ -72,9 +72,9 @@ Este proyecto involucró el desarrollo completo del sistema, desde el diseño el
 
 `ESP32` `LoRa` `C++` `KiCad` `HTML` `CSS` `JavaScript` `Bases de Datos` `Git`
 
-##🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
+## 🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
 
-##🌐 Plataforma Web: [Ver plataforma](LINK_WEB)
+## 🌐 Plataforma Web: [Ver plataforma](LINK_WEB)
 
 ---
 
@@ -99,8 +99,8 @@ El proyecto abarcó todo el ciclo de análisis de datos, desde la obtención y l
 
 `Python` `SQL` `Power BI` `pdAdmin` `Dbeaver` `Databricks` `Rstudio`
 
-##🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
+## 🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
 
-##📊 Dashboard: [Ver dashboard](LINK_POWERBI)
+## 📊 Dashboard: [Ver dashboard](LINK_POWERBI)
 
 

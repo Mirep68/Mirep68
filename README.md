@@ -1,44 +1,52 @@
-# Hola, soy Jose Miguel Rico 👋
+# Jose Miguel Rico Acosta
 
-🎓 Estudiante de Ingeniería de Sistemas Cibernéticos
+Estudiante de Ingeniería de Sistemas Cibernéticos
 
-💻 Interesado en:
+Apasionado por el desarrollo de software, analítica de datos, IoT, sistemas embebidos, diseño electrónico y la electronica.
 
-- Desarrollo de Software
-- Sistemas Embebidos
-- IoT
-- ESP32
-- Diseño de PCB
-- Automatización
-- Soporte TI
+Actualmente combino conocimientos de programación, análisis de datos y electrónica para desarrollar soluciones tecnológicas orientadas a la automatización, la toma de decisiones basada en datos y la resolución de problemas reales.
 
-## Tecnologías
+---
 
-- Python
-- C++
-- Java
-- HTML
-- CSS
-- JavaScript
-- ESP32
-- Arduino
-- KiCad
-- Git
+## 🚀 Sobre mí
 
-## Proyectos Destacados
+- 📚 Estudiante de Ingeniería de Sistemas Cibernéticos
+- 📊 Formación en Analítica de Datos
+- 💻 Desarrollo de Software con Python, HTML y tecnologías web
+- 🗄 Experiencia en SQL y bases de datos
+- 📈 Creación de dashboards interactivos en Power BI
+- 🔌 Desarrollo de proyectos IoT con ESP32 y Arduino
+- 🛠 Diseño de PCB utilizando KiCad
+- 🔍 Interés en Data Analytics, IoT, Automatización y Tecnología
 
-🔹 Sistema IoT con ESP32
+---
 
-🔹 Diseño de PCB en KiCad
+## 🛠 Tecnologías y Herramientas
 
-🔹 Automatización y Control
+### Lenguajes
 
-🔹 Desarrollo Web
+Python • SQL • HTML • CSS 
 
-## Contacto
+### Analítica de Datos
 
-📧 correo@email.com
+Pandas • NumPy • Matplotlib • Power BI • RStudio
 
-🔗 LinkedIn
+### Bases de Datos
 
-🔗 Portafolio
+MySQL • SQL Server •  pgAdmin
+
+### Electrónica e IoT
+
+ESP32 • Arduino • Sensores • UART • IoT • Sistemas Embebidos
+
+### Diseño Electrónico
+
+KiCad • PCB Design • Esquemáticos Electrónicos
+
+### Herramientas
+
+GitHub • VS Code • Arduino IDE • Orca Slicer
+
+---
+
+# 🌟 Proyectos Destacados

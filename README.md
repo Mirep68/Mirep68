@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy Jose Miguel Rico 👋
 
-<!--
-**Mirep68/Mirep68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas Cibernéticos
 
-Here are some ideas to get you started:
+💻 Interesado en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo de Software
+- Sistemas Embebidos
+- IoT
+- ESP32
+- Diseño de PCB
+- Automatización
+- Soporte TI
+
+## Tecnologías
+
+- Python
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- ESP32
+- Arduino
+- KiCad
+- Git
+
+## Proyectos Destacados
+
+🔹 Sistema IoT con ESP32
+
+🔹 Diseño de PCB en KiCad
+
+🔹 Automatización y Control
+
+🔹 Desarrollo Web
+
+## Contacto
+
+📧 correo@email.com
+
+🔗 LinkedIn
+
+🔗 Portafolio

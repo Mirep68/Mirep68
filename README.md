@@ -25,7 +25,7 @@ Actualmente combino conocimientos de programación, análisis de datos y electr�
 
 ### Lenguajes
 
-Python • SQL • HTML • CSS 
+Python • SQL • HTML • CSS • JavaScript
 
 ### Analítica de Datos
 

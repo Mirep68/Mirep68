@@ -93,7 +93,7 @@ El proyecto abarcó todo el ciclo de análisis de datos, desde la obtención y l
 
 #### Tecnologías utilizadas
 
-`Python` `Pandas` `SQL` `Power BI` `Analítica de Datos` `Business Intelligence` `Visualización de Datos`
+`Python` `SQL` `Power BI` `pdAdmin` `Dbeaver` `Databricks` `Rstudio`
 
 
 

@@ -74,7 +74,7 @@ Este proyecto involucró el desarrollo completo del sistema, desde el diseño el
 
 ## 🔗 Repositorio: [[Ver proyecto](LINK_REPOSITORIO)](https://github.com/Mirep68/Smart-Weather-Monitoring-Platform)
 
-## 🌐 Plataforma Web: [Ver plataforma](LINK_WEB)
+## 🌐 Plataforma Web: [Ver plataforma](https://estacion-meteorologica-d167d.web.app/)
 
 ---
 

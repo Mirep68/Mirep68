@@ -72,7 +72,7 @@ Este proyecto involucró el desarrollo completo del sistema, desde el diseño el
 
 `ESP32` `LoRa` `C++` `KiCad` `HTML` `CSS` `JavaScript` `Bases de Datos` `Git`
 
-## 🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
+## 🔗 Repositorio: [[Ver proyecto](LINK_REPOSITORIO)](https://github.com/Mirep68/Smart-Weather-Monitoring-Platform)
 
 ## 🌐 Plataforma Web: [Ver plataforma](LINK_WEB)
 

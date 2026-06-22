@@ -99,8 +99,8 @@ El proyecto abarcó todo el ciclo de análisis de datos, desde la obtención y l
 
 `Python` `SQL` `Power BI` `pdAdmin` `Dbeaver` `Databricks` `Rstudio`
 
-## 🔗 Repositorio: [Ver proyecto](LINK_REPOSITORIO)
+## 🔗 Repositorio: [Ver proyecto](https://github.com/Mirep68/Global-Video-Game-Sales-Analysis)
 
-## 📊 Dashboard: [Ver dashboard](LINK_POWERBI)
+## 📊 Dashboard: [Ver dashboard](https://app.powerbi.com/links/OBcyL0-u82?ctid=c0401a71-9d62-44ea-874a-afb14e46c48a&pbi_source=linkShare&bookmarkGuid=ac012a03-d4fd-4305-8bbc-5686bf01f2bf)
 
 

@@ -101,6 +101,6 @@ El proyecto abarcó todo el ciclo de análisis de datos, desde la obtención y l
 
 ## 🔗 Repositorio: [Ver proyecto](https://github.com/Mirep68/Global-Video-Game-Sales-Analysis)
 
-## 📊 Dashboard: [Ver dashboard](https://app.powerbi.com/links/OBcyL0-u82?ctid=c0401a71-9d62-44ea-874a-afb14e46c48a&pbi_source=linkShare)
+## 📊 Dashboard: [Ver dashboard](https://github.com/Mirep68/Global-Video-Game-Sales-Analysis/blob/main/Dashboard/Video_Games.pbix)
 
 

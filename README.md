@@ -13,9 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=Mirep68&label=VISITAS&color=00e5ff&style=for-the-badge" alt="Visitas al perfil"/>
   <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-39ff9c?style=for-the-badge&labelColor=0a1424" alt="Medellín, Colombia"/>
   <a href="https://www.kaggle.com/josemiguelricoa"><img src="https://img.shields.io/badge/Kaggle-josemiguelricoa-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a1424" alt="Kaggle"/></a>
-  <a href="www.linkedin.com/in/jose-miguel-rico-acosta"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1424"/></a>
-  <a href="josemiguelrico68@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1424"/></a>
-  
+  <a href="https://www.linkedin.com/in/jose-miguel-rico-acosta"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1424" alt="LinkedIn"/></a>
+  <a href="mailto:josemiguelrico68@gmail.com"><img src="https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1424" alt="Gmail"/></a>
 </p>
 
 <!-- ═══════════════════════════  SOBRE MÍ  ═══════════════════════════ -->
@@ -168,6 +167,18 @@ class JoseMiguel:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mirep68/Mirep68/output/github-snake.svg"/>
     <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/Mirep68/Mirep68/output/github-snake-dark.svg"/>
   </picture>
+</p>
+
+<!-- ═══════════════════════════  CONTACTO  ═══════════════════════════ -->
+<h2>📬 Hablemos</h2>
+
+<p align="center">
+  ¿Un proyecto de IoT, IA embebida o datos? Estoy abierto a colaborar, prácticas y nuevas ideas.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-miguel-rico-acosta"><img src="https://img.shields.io/badge/LinkedIn-jose--miguel--rico--acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1424" alt="LinkedIn"/></a>
+  <a href="mailto:josemiguelrico68@gmail.com"><img src="https://img.shields.io/badge/Gmail-josemiguelrico68-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1424" alt="Gmail"/></a>
+  <a href="https://www.kaggle.com/josemiguelricoa"><img src="https://img.shields.io/badge/Kaggle-josemiguelricoa-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a1424" alt="Kaggle"/></a>
 </p>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->

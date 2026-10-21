@@ -13,10 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=Mirep68&label=VISITAS&color=00e5ff&style=for-the-badge" alt="Visitas al perfil"/>
   <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-39ff9c?style=for-the-badge&labelColor=0a1424" alt="Medellín, Colombia"/>
   <a href="https://www.kaggle.com/josemiguelricoa"><img src="https://img.shields.io/badge/Kaggle-josemiguelricoa-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a1424" alt="Kaggle"/></a>
-  <!-- Descomenta y completa cuando quieras mostrar tus redes:
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1424"/></a>
-  <a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1424"/></a>
-  -->
+  <a href="www.linkedin.com/in/jose-miguel-rico-acosta"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1424"/></a>
+  <a href="josemiguelrico68@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1424"/></a>
+  
 </p>
 
 <!-- ═══════════════════════════  SOBRE MÍ  ═══════════════════════════ -->
